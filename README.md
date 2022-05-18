@@ -1,2 +1,2 @@
 # croncommand
-demo
+This is demo project
